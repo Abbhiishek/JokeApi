@@ -1,0 +1,610 @@
+[
+    {
+        "category": "Programming",
+        "type": "single",
+        "joke": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 44,
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "single",
+        "joke": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 51,
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "single",
+        "joke": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 42,
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "single",
+        "joke": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 36,
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "single",
+        "joke": "Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 27,
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "single",
+        "joke": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 34,
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "single",
+        "joke": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": true,
+        "id": 301,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "single",
+        "joke": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 37,
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "single",
+        "joke": "ASCII silly question, get a silly ANSI.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 25,
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "single",
+        "joke": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 259,
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "single",
+        "joke": "If you're here for the yodeling lesson, please form an orderly orderly orderly queue.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 139,
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "single",
+        "joke": "Two reasons I don't give money to homeless people.\n1) They are going to spend it all on drugs and alcohol\n2) I am going to spend it all on drugs and alcohol.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 72,
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "single",
+        "joke": "My wife and I have reached the difficult decision that we do not want children.\nIf anybody does, please just send me your contact details and we can drop them off tomorrow.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 257,
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "single",
+        "joke": "Never date a baker. They're too kneady.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": true,
+        "id": 271,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "single",
+        "joke": "I visited my friend at his new house. He told me to make myself at home. So I threw him out. I hate having visitors.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": true,
+        "id": 304,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "single",
+        "joke": "A neutron walks into a bar and asks for a price on a drink.\nThe barkeeper says: \"For you... no charge!\"",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 73,
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "single",
+        "joke": "My parents raised me as an only child, which really annoyed my younger brother.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 235,
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "single",
+        "joke": "Yo mama is so old, she knew Burger King while he was still a prince.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": true,
+        "id": 306,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "single",
+        "joke": "Schrödinger's cat walks into a bar and doesn't.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 197,
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "single",
+        "joke": "My husband and I were happy for 20 years. And then we met.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": true,
+        "id": 273,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "single",
+        "joke": "I didn't vaccinate my 10 kids and the one that survived is fine!",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 96,
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "single",
+        "joke": "Doctor: \"I have some news about your baby.\"\nParents: \"Don't tell us the gender, we want to keep it a surprise.\"\nDoctor: \"Oh I get it, you're those type of people. Okay, well IT is not breathing.\"",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 138,
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "single",
+        "joke": "My ex had an accident. I told the paramedics the wrong blood type for her. She'll finally experience what rejection is really like.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 152,
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "single",
+        "joke": "My little daughter came to me all excited, saying \"Daddy! Daddy! Guess how old I'll be in June!\"\n\"Oh I don't know princess, why don't you tell me?\" I said. She gave me a huge smile and held up four fingers.\nIt's now three hours later, police have joined in and she still won't say where she got them.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 165,
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "single",
+        "joke": "My grandfather says I'm too reliant on technology.\nI called him a hypocrite and unplugged his life support.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 178,
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "single",
+        "joke": "I'll never forget my Granddad's last words to me just before he died. \"Are you still holding the ladder?\"",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 208,
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "single",
+        "joke": "I have a fish that can breakdance! Only for 20 seconds though, and only once.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 237,
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "single",
+        "joke": "My girlfriend's dog died, so I tried to cheer her up by getting her an identical one. It just made her more upset. She screamed at me, \"What am I supposed to do with two dead dogs?\"",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": false,
+        "id": 275,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "single",
+        "joke": "Oysters hate to give away their pearls because they are shellfish.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 90,
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "single",
+        "joke": "I have these weird muscle spasms in my gluteus maximus.\nI figured out from my doctor that everything was alright:\nHe said \"Weird flex, butt okay.\"",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 82,
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "single",
+        "joke": "I'm reading a book about anti-gravity. It's impossible to put down!",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 126,
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "single",
+        "joke": "Today, my son asked \"Can I have a book mark?\" and I burst into tears.\n11 years old and he still doesn't know my name is Brian.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 200,
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "single",
+        "joke": "A horse walks into a bar.\n\"Hey\", the Bartender says.\n\"Sure\", the horse replies.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 74,
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "single",
+        "joke": "I bought some shoes from a drug dealer. I don't know what he laced them with, but I was tripping all day!",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 204,
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "single",
+        "joke": "To whoever stole my copy of Microsoft Office, I will find you. You have my Word!",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 191,
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "single",
+        "joke": "I was reading a great book about an immortal dog the other day. It was impossible to put down.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 236,
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "single",
+        "joke": "I have a joke about trickle down economics, but 99% of you will never get it.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 238,
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "single",
+        "joke": "I was struggling to figure out how lightning works, but then it struck me.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 220,
+        "safe": true,
+        "lang": "en"
+    }
+]
