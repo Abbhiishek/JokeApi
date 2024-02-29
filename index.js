@@ -5,7 +5,7 @@ const jokes = require('./data/joke.json');
 const app = express();
 const PORT = 8000;
 
-app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument));
+app.use('/docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument));
 
 
 app.get("/", (req, res) => {

@@ -5,7 +5,7 @@
     "description": "THIS IS A VERY COOL APP THAT TELLS YOU JOKES",
     "version": "1.0.0"
   },
-  "host": "localhost:8000",
+  "host": "https://joke-api-nine.vercel.app/",
   "basePath": "/",
   "schemes": [
     "http"

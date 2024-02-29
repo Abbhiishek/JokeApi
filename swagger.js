@@ -7,7 +7,7 @@ const doc = {
         version: '1.0.0',
 
     },
-    host: 'localhost:8000',
+    host: 'https://joke-api-nine.vercel.app/',
     securityDefinitions: {
         apiKeyAuth: {
             type: 'apiKey',
