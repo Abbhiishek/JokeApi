@@ -7,6 +7,7 @@ const doc = {
         version: '1.0.0',
 
     },
+    host: "localhost:8000",
     securityDefinitions: {
         bearerAuth: {
             type: 'http',

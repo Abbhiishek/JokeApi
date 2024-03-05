@@ -6,16 +6,23 @@ const mongoose = require("mongoose");
 const UserRouter = require('./Routes/user');
 const bodyParser = require("body-parser")
 var cors = require('cors')
-
+const CSS_URL = "https://cdnjs.cloudflare.com/ajax/libs/swagger-ui/5.0.0/swagger-ui.min.css";
 const app = express();
+require('dotenv').config()
 const PORT = 8000;
 app.use(bodyParser.json())
 app.use(cors())
-app.use('/docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument));
+app.use('/docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument,
+    {
+        customCss:
+            '.swagger-ui .opblock .opblock-summary-path-description-wrapper { align-items: center; display: flex; flex-wrap: wrap; gap: 0 10px; padding: 0 10px; width: 100%; }',
+        customCssUrl: CSS_URL
+    })
+);
 
 // YdyJFP6LOaknE92b
 // adminjokeapi
-mongoose.connect("mongodb+srv://adminjokeapi:YdyJFP6LOaknE92b@cluster0.ger3qmd.mongodb.net/?retryWrites=true&w=majority", { useNewUrlParser: true })
+mongoose.connect(process.env.DATABASE_URI)
     .then(
         () => console.log("database connected "),
         (reason) => console.log("something went wrong with  -> ", reason)

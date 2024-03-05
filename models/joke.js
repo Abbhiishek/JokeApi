@@ -20,6 +20,10 @@ const JokeSchema = new mongoose.Schema({
     categories: {
         type: [String],
         required: true
+    },
+    isPublic: {
+        type: Boolean,
+        default: true
     }
 })
 

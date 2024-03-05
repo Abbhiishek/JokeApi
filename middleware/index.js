@@ -1,19 +1,28 @@
 const jsonwebtoken = require("jsonwebtoken");
+require('dotenv').config()
+
+const TOKEN_SECRET = process.env.TOKEN_SECRET
+
 
 function generateAccessToken(username) {
-    return jsonwebtoken.sign(username, "abhishekkuishwaha")
+    return jsonwebtoken.sign(username, TOKEN_SECRET,)
 }
 
 function authenticateToken(req, res, next) {
 
-    const token = req.headers['authorization'];
-    if (!token) return res.status(401).send("AccessDenied!!")
+    // console.log("headers -> ", req.headers)
+    let token = req.headers['authorization'];
+    if (!token) return res.status(401).send("AccessDenied!! token is not provided")
 
-
-    jsonwebtoken.verify
-
-    console.log("hello")
-    next()
+    // token = Bearer  " "
+    token = token.split(" ")[1]
+    console.log("token -> ", token)
+    jsonwebtoken.verify(token.replace("Bearer", ""), TOKEN_SECRET, (err, user) => {
+        if (err) return res.status(403).send("Invalid Token")
+        req.user = user;
+        console.log("user -> ", user)
+        next()
+    })
 }
 
 
